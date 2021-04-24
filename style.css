@@ -1,18 +1,19 @@
 body {
     font-family: Verdana;
     color: #242526;
-    font-size: 12px;
-    line-height: 18px;
+    font-size: 11px;
+    line-height: 16px;
   }
 
 h1 {
-    font-size: 14px;
+    font-size: 11px;
+    font-weight: 700;
   }
 
 p {
 
   }
 
-.Orange {
-color: coral;
+.orange {
+color: #ff730c;
   }
