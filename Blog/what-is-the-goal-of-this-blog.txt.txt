@@ -3,3 +3,20 @@ Hi everyone,
 
 So what is this website? And what can you expect to find here?
 Well that is a great question!
+
+This is my personal website on which I will be sharing everything that I'm passionate about. 
+It's pretty hard for me to define exactly everything that will be on this website, since the thing is that I
+want to let the content of this website grow as 'natural' and 'organic' as possible. By that I mean that whatever
+pops in my mind, whatever I felt like making, I will post it to this website.
+
+My head is always filled with cool little ideas, but I have never had a central place on which I could share what
+I was working on. I tried Twitter, Instagram, and in fact I already tried making personal websites before. But somehow
+it never worked out and felt more like a chore instead of a fun and easy thing to expand.
+
+So I decided to start out as simple, cheap and easy as possible to setup this website. The fact that I'm writing this blog
+in a .txt file instead of using some over the top CMS like Wordpress, Squarespace or Webflow (which I used to use professionally),
+is a testament to how simple I'm keeping things for now. As of writing this first blog the entirety of this website is made up
+of no more than 14 lines of html (lol)!
+
+In the last 2 to 3 years I've become more and more interested in (obessed with) old school website and games from the early 2000's
+to about 2012'ish..... (to be continued on a later time and date, since it's currently 00:16 30-04-2021, time to go to bed)
