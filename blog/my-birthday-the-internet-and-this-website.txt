@@ -48,8 +48,8 @@ their website in like 10+ years, and that’s cool to see. So I'm going to be ad
 whenever I make any significant changes to it. This way I can preserve the evolution of this website and see the progress/changes I'm making overtime.
 
 This longing of mine for the old internet is partly because of nostalgia, but also partly because nowadays some websites have just become so bloated with 
-nonsense, or they just look so ugly and ‘too big’. Anyways, I might upload some of what I found over the years, or I will at least post about cool stuff I found every now and then. It’s what give’s me inspiration 
-for my own upcoming games and projects.
+nonsense, or they just look so ugly and ‘too big’. Anyways, I might upload some of what I found over the years, or I will at least post about cool stuff I found every now and then. 
+It’s what give’s me inspiration for my own upcoming games and projects.
 
 The goal is to create fun online multiplayer games which are easily available, preferably through the web. And I want to hand code them. It will be a product 
 of my own imagination, creativity and perseverance. So hopefully in the not so distant future, I can share it with anyone who’s interested.

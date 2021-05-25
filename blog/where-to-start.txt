@@ -1,0 +1,31 @@
+25-05-2021
+Where to start?
+
+--
+So for the past couple of days I've been doing a lot of research on how I can make my ideas a reality. As I mentioned in my previous blog posts, I want to create webgames.
+Or let me make it a little broader, I want to create fun games in the spirit of games of old. Games that had no limits, games that were more about social interactivity than
+they were about graphics for example. Games like Runescape, Club Penguin and Habbo hotel. Games where the imagination of the players was a large part of the overall gameplay and
+overall experience.
+
+For me this also means that the game is easily accessible. And what would be more accessible than being able to just go to the website, login and start playing. So this naturally
+leads to creating a webgame. 
+But since I am very inexperienced in creating full fledged web-games, or any game in general, I'm not sure if by choosing the web-game route, I'm limiting myself for the future.
+It's a case of 'I don't know what I don't know'. That's why during my research I started looking for references of what other games have used in their tech-stacks. 
+I looked at online games like Runescape and Club Penguin. But those games are too old to give a good idea of what tech-stack to use. So I started looking at more modern games.
+One of those games is Wilds.io. It's a fun IO type game, and you can find information about the way it has been created on several forums. I also looked Stardew Valley.
+Stardew Valley has been created by one guy, much like I'm going to do, so I thought that would be a good reference point. And that guy, Eric Barone, used the old microsoft XNA
+framework to basically create his own game completely from scratch. This uses C# as it's main language and offers amazing freedom, at the cost of having to basically create
+all your own tools, and in the end basically creating your own custom game engine that specifically suites your game's needs. Now since XNA hasn't been support ---- Dwell gebruikt monogame
+--
+
+That is a question that often keeps me from my work. I have a lot of ideas and I have a lot of motivation to make those ideas into reality.
+But the question is always, where the hell do I start?
+
+So the first thing I want to start working on is creating fun 'mini' website. Much like the sites you see on https://theuselessweb.com/.
+I want to create fun little experiences for people to just enjoy. You go to the link and you will be entertained by fun interactive experiences.
+
+I want to start making these mini websites to gain some experience of my own coding websites and using frameworks like Phaser.
+For the last couple of days I've been doing a lot of research into how I can get started creating my own web games. One engine I keep coming
+back to is the Phaser engine. Now I think this is great, but I think it would also be a great experiences and good learning curve for me to 
+make things from scratch instead of using a pre-made engine. This will cost me more time and will probably be more difficult, but in the long
+term this should really pay off because I will understand how everything works.
