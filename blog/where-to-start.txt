@@ -15,7 +15,11 @@ I looked at online games like Runescape and Club Penguin. But those games are to
 One of those games is Wilds.io. It's a fun IO type game, and you can find information about the way it has been created on several forums. I also looked Stardew Valley.
 Stardew Valley has been created by one guy, much like I'm going to do, so I thought that would be a good reference point. And that guy, Eric Barone, used the old microsoft XNA
 framework to basically create his own game completely from scratch. This uses C# as it's main language and offers amazing freedom, at the cost of having to basically create
-all your own tools, and in the end basically creating your own custom game engine that specifically suites your game's needs. Now since XNA hasn't been support ---- Dwell gebruikt monogame
+all your own tools, and in the end basically creating your own custom game engine that specifically suites your game's needs. Now since XNA hasn't been supported since 2014 and it is only for desktop type games. There is little to no support for web games. Another game I like the look of is a little game called Dwell. I found this game around 3 years ago and I really like the pixel art style and the multiplayer gameplay. This game was made using Monogame. Monogame is a basically a continuation of the Microsoft XNA framework. But still, these games are only for desktop and not for the web.
+So even though this framework looks great, and I could make the game I want to make using this framework, it limits me to the desktop.
+So back to html5, css, javascript, Dom, canvas, webgl. See, there are a lot of option for web game development. For the last 4 years I have actually been a web developer/designer myself. But I used something called Webflow. Webflow allows you to create websites without actually having to code anything. But it does use the HTML5, css doing structures. So it did teach me the basic logic and thinking needed to understand web development.
+
+
 --
 
 That is a question that often keeps me from my work. I have a lot of ideas and I have a lot of motivation to make those ideas into reality.
