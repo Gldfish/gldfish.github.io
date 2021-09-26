@@ -1,0 +1,59 @@
+So I’m currently sitting in the dunes and writing this post. Today’s my birthday and I became 26 years old. 
+
+It’s been a great day so far having had dinner with my brother and father in the afternoon, and going out to 
+have a beer afterwards with just my brother. I decided since it was such a beautiful day I’d go out for a walk 
+in the dunes, and since my brother is not much of a dune lover/walker I went alone. I’m sitting here on a bench 
+and except for the highway right next to these dunes, it’s pure serenity. With birds chirping and rabbit’s running about.
+
+So I decided it was time for a new post since my last post is already around 16 days old. I tried logging in to Github 
+on my phone and copying the last .txt post, but that didn’t work out haha. So I’ll email this text to myself and 
+upload it to Github once I’m home again.
+
+So yeah, 26 years old. I’m now closer to 30 than I am to 20. But I don’t think about that too much.
+I’ve had some great inspiration and motivation over the past weeks to, well, first of all start this personal website, but 
+second of all to slowly but surely start working on my own games. 
+
+I’ve been fascinated with webgames ever since I was young. The ease of access and creative homemade feel to them has just 
+always appealed to me. I think this stems from my youth where I experienced the internet when it was just so free and, unregulated 
+and less commercial. It was an outlet for creative and adventurous people to express themselves in any way shape or form. That’s how 
+we got games such a Runescape, or the countless of flash games, or websites such as Nitrome on which we could play amazingly creative 
+and fun games (my favorite being Skywire, the themesong is just amazing). And I kind of miss that feeling nowadays. I just don’t see 
+that kind of freedom and weirdness on the internet nowadays.
+
+There was a time when there were endless mmo’s available (some better than others). 
+
+--(Got a call from my brother about our Youtube channel and other game we’re working on together haha)--
+
+So anyways, like I was saying, I just miss the feeling of finding new online worlds to explore, socializing with people online on 
+a deeper level because you were both new to the game you were playing and didn’t know jack sh*t about it yet. I miss the simplistic 
+and super functional designs of games, and with designs I’m talking about every single design aspect of the game. The UI, the graphics, 
+the gameplay, the accessibility, the openness, the 'this is the game world, do with it as you please'. I want games to be over glorified 
+chatboxes in which you can grind for 5 minutes or for 20 hours and still not be bored because you could always just return to your friends 
+and chat with them. Even the design of the old game websites were just awesome. Fonts were nice and small, and sites were not ‘responsive’. 
+Which meant that sites just worked, because they were made with a standard width of 800px for example. People were expressing themselves and 
+coming up with creative new ideas, and they just made it. There were no engines like Godot, Unity or Unreal Engine. There was Flash, and you 
+could make what you wanted and it simply worked in your browser, and was available to everyone in the world. There were no Youtube video’s 
+showing you how to do everything, which meant people had to figure things out for themselves, which translated into new and fun ideas and games.
+
+Well I guess what I’m trying to say is that I miss the old internet, the 2000-2010’ish internet. The goal of this website is to bring a little of that 
+awesomeness back. To create my own piece of internet history. I’ll start working on my own games and projects, which will all be documented right 
+here for anyone interested to read about and eventually download.
+
+I also like documenting/archiving things I find throughout the internet. Since websites are ever changing, I think it’s important to make sure the 
+internet history is not lost. There are great websites like Wayback Machine, on which I often find myself revisiting websites I went to as a child, 
+and take screenshots of the old websites so I know for sure that it isn’t lost or that I can’t find it again. 
+And sometimes by randomly browsing the web or old forums you might find some super obscure old website of someone or of a company that hasn’t changed 
+their website in like 10+ years, and that’s cool to see. So I'm going to be adding a section on this website on which you can see screenshots of this website 
+whenever I make any significant changes to it. This way I can preserve the evolution of this website and see the progress/changes I'm making overtime.
+
+This longing of mine for the old internet is partly because of nostalgia, but also partly because nowadays some websites have just become so bloated with 
+nonsense, or they just look so ugly and ‘too big’. Anyways, I might upload some of what I found over the years, or I will at least post about cool stuff I found every now and then. It’s what give’s me inspiration 
+for my own upcoming games and projects.
+
+The goal is to create fun online multiplayer games which are easily available, preferably through the web. And I want to hand code them. It will be a product 
+of my own imagination, creativity and perseverance. So hopefully in the not so distant future, I can share it with anyone who’s interested.
+
+Thanks for reading if you’ve made it this far. And if you’d like to contact me or share your memories of the ‘olden’ internet with me, then send me 
+an email at rob@gldfish.com.
+
+Cheers, birthday boy Rob.
